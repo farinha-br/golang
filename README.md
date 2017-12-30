@@ -1,3 +1,3 @@
-# Scripts
-javascript, java, php, c#, golang<br/>
-html, css
+GoLang login auth app with:
+
+https, sessions, mysql, bcrypt
